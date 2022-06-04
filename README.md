@@ -1,3 +1,4 @@
+![Our_slogan](https://user-images.githubusercontent.com/73990796/171986710-8c7814df-8e2c-479b-9107-9e5b784576bf.png)
 <!DOCTYPE html>
 	<head>
 		<title> Knitting Nest </title>
