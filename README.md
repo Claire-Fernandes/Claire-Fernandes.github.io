@@ -1,38 +1,24 @@
 
-<!DOCTYPE html>
-	<head>
-		<title> Knitting Nest </title>
-		<link rel="icon" type="images/Knitting_Nest_Logo.png" href="Knitting_Nest_Logo.png">![Knitting_Nest_Logo](https://user-
+Knitting Nest !\[Knitting\_Nest\_Logo\](https://user-  
+  
+  
+  
+![Knitting_Nest_Logo](https://user-images.githubusercontent.com/73990796/171987058-f3d05678-9105-4c98-b677-26ba93b8bfe4.png)
 
-	</head>
-	<body>
-		<br>
-		<br>
-		<br>
-		<br>
-			![Our_Logo](https://images.githubusercontent.com/73990796/171986859-9841ff15-01f8-4998-8230-c5f52d2efcd7.png)
-		<center>
-		    <b>
-			<font face="Copperplate, Papyrus, fantasy">  
-			<a href="Home_page.html">Home</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="About_Us.html">About Us</a>
-			&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="Shop_Now.html">Shop Now</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="New.html">New Updates</a>
-			&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="Contact_Us.html">Contact Us</a>
-			</font>
-		    </b>  
-			<hr>
-			<br>
-			<br>
-			<br>
-			<br>
-![Our_slogan](https://user-images.githubusercontent.com/73990796/171986710-8c7814df-8e2c-479b-9107-9e5b784576bf.png)
-			<b>
-<font face="Copperplate, Papyrus, fantasy">
-			<p>Last Updated: 2nd June 2022</p>
-</font>
-			</b>
-			<i>
-			<p class="Copyright">©copyright Knitting Nest</p>
-			</i>
-		</center>
-	</body>
-</html>
+**[Home](Home_page.html)       [About Us](About_Us.html)        [Shop Now](Shop_Now.html)       [New Updates](New.html)        [Contact Us](Contact_Us.html)**
+
+* * *
+
+  
+  
+  
+  
+![Our_slogan](https://user-images.githubusercontent.com/73990796/171987060-f5c09c2d-ebce-47d1-bfb5-02e18c868c5d.png)
+
+Last Updated: 2nd June 2022
+
+**_
+
+©copyright Knitting Nest
+
+_
