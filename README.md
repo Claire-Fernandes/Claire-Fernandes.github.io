@@ -1,69 +1,16 @@
-![Our_slogan](https://user-images.githubusercontent.com/73990796/171986710-8c7814df-8e2c-479b-9107-9e5b784576bf.png)
+
 <!DOCTYPE html>
 	<head>
 		<title> Knitting Nest </title>
-		<link rel="icon" type="images/Knitting_Nest_Logo.png" href="Knitting_Nest_Logo.png">
-		<style>
-			html{
-				BORDER:5px dotted rgb(171, 74, 255);
-    				height:100%;
-     				BORDER-RADIUS:10px;
-     				PADDING:300 px;
-			}
-			body{
-         			background-image: url('Background_image.png');
+		<link rel="icon" type="images/Knitting_Nest_Logo.png" href="Knitting_Nest_Logo.png">![Knitting_Nest_Logo](https://user-
 
-			}
-			A:LINK{
-            		FONT-SIZE:25px; 
-            		TEXT-DECORATION:NONE;
-			}
-			A:VISITED{
-                       COLOR:rgb(138, 32, 74);
-                       TEXT-ALIGN:center;
-			}
-			A:HOVER{
-                		COLOR:rgba(227, 84, 179, 0.87);
-                		TEXT-DECORATION:UNDERLINE;
-			}
-			A:ACTIVE{
-                		COLOR:rgb(123, 78, 138)
-			}
-			hr{
-    				border: 2px dotted rgb(107, 78, 102);
-			}
-			img.image2{
-				BORDER:5px dotted  rgb(171, 74, 255);
-     				BORDER-RADIUS:10px;
-     				PADDING:300 px;
-				width:50%;
-				BOX-SHADOW:6px 2px 4px 8px rgba(50, 0, 61, 0.35);
-			}
-			img.image1{
-				BORDER:5px dotted  rgb(171, 74, 255);
-				WIDTH:6%;
-				PADDING:300 px;
-				BORDER-RADIUS:200px;
-				position: fixed;
-   				top: 4%;
-			}
-			p.Copyright{
-				background-color:rgba(18, 7, 14, 0.55);
-				height: 30px;
-				width:1500px;
-				color:rgb(243, 242, 255);
-				position: fixed;
-   				top: 91%;
-                        left:1%;
-			}
-		</style>
 	</head>
 	<body>
 		<br>
 		<br>
 		<br>
 		<br>
-			&nbsp&nbsp&nbsp&nbsp&nbsp<img class="image1" src="Knitting_Nest_Logo.png" alt="Our Logo">
+			![Our_Logo](https://images.githubusercontent.com/73990796/171986859-9841ff15-01f8-4998-8230-c5f52d2efcd7.png)
 		<center>
 		    <b>
 			<font face="Copperplate, Papyrus, fantasy">  
@@ -77,7 +24,7 @@
 			<br>
 			<br>
 			<br>
-			<img class="image2" src="Our_slogan.png" alt="Our Slogan">
+![Our_slogan](https://user-images.githubusercontent.com/73990796/171986710-8c7814df-8e2c-479b-9107-9e5b784576bf.png)
 			<b>
 <font face="Copperplate, Papyrus, fantasy">
 			<p>Last Updated: 2nd June 2022</p>
